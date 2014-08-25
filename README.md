@@ -1,7 +1,7 @@
 b6m-wap-deployment
 ==================
 
-帮6买团队wap站前端项目部署示例
+帮5买团队wap站前端项目部署示例
 
 线上预览：[http://www.b5m.com](http://www.b5m.com) (使用手机访问)
 
